@@ -1,16 +1,85 @@
-## Hi there 👋
+# Hi 👋 I'm Pragathi Tarase
 
-<!--
-**Pragathi-Tarase/Pragathi-Tarase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Undergraduate
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 AI & Machine Learning Enthusiast
+
+📍 Mysore, India
+
+---
+
+##  About Me
+
+- 🌱 Learning AI, Machine Learning & Full Stack Development
+- 💡 Building real-world software solutions
+- 🎯 Interested in Generative AI and Cloud Computing
+- 📚 Always learning new technologies
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Python
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- SQL
+
+### Frameworks
+- React
+- FastAPI
+- Tailwind CSS
+- Node.js
+
+### Database
+- SQLite
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Figma
+
+---
+
+##  Featured Projects
+
+### 📈 WealthSense
+AI-powered stock & cryptocurrency analysis platform.
+
+### 🏥 HealthPulse
+Healthcare Management System.
+
+### 🎓 StudySphere AI
+AI-powered study assistant.
+
+### 🤖 Lumina AI
+Modern AI chatbot.
+
+### 🌐 Personal Portfolio
+Dark themed responsive portfolio website.
+
+---
+
+##  Connect with Me
+
+- Email: tarasepragathi@gmail.com
+- LinkedIn: : www.linkedin.com/in/pragathi-tarase
+- Portfolio: https://personal-portfolio-rho-nine-98.vercel.app/
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pragathi-Tarase&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragathi-Tarase&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pragathi-Tarase&theme=tokyonight&hide_border=true"/>
+</p>
