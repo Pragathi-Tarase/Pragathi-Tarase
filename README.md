@@ -72,14 +72,3 @@ Dark themed responsive portfolio website.
 - LinkedIn: : www.linkedin.com/in/pragathi-tarase
 - Portfolio: https://personal-portfolio-rho-nine-98.vercel.app/
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pragathi-Tarase&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragathi-Tarase&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pragathi-Tarase&theme=tokyonight&hide_border=true"/>
-</p>
